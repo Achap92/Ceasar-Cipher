@@ -1,0 +1,19 @@
+body {
+  background-color: #4e4848;
+  color: #00b3ff;
+  text-align: center;
+}
+
+#encrypt{
+  background-image: linear-gradient(to left,#0800ff,#dd00ff);
+  margin: 10px;
+  color: white;
+}
+
+#decrypt{
+  background-image: linear-gradient(to left,#0800ff,#dd00ff);
+  margin: 10px;
+  color: white;
+}
+
+
